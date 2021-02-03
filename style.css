@@ -1,0 +1,11 @@
+u {
+	text-decoration: underline;
+}
+
+body {
+	background-color: lightblue;
+}
+
+p, h1 {
+	font-family: tahoma;
+}
